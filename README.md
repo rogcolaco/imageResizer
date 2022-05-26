@@ -7,9 +7,9 @@ Script python utilizado para redimensionar um conjunto de imagens para as dimens
 Para funcionamento é necessário a instação da biblioteca Pillow
 [Link para a documentação](https://pillow.readthedocs.io/en/stable/)
 
-> Instalação utilizando o pip
-> python3 -m pip install --upgrade pip
-> python3 -m pip install --upgrade Pillow
+> Instalação utilizando o pip  
+> python3 -m pip install --upgrade pip  
+> python3 -m pip install --upgrade Pillow  
 
 ## Funcionamento
 
