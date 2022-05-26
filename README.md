@@ -19,4 +19,5 @@ Para funcionamento é necessário a instação da biblioteca Pillow
 4. Imagens redimensionadas serão copiadas para a pasta "imagesResized"
 
 **Cuidado especial**
+
 O nome dos arquivos não podem contem "."
